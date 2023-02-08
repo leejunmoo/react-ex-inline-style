@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.main-bg {
+  height: 300px;
+  background-color: #ccc;
+  background-image: url('./images/000101.png');
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
